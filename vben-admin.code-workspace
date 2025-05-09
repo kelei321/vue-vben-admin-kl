@@ -17,6 +17,10 @@
       "path": "apps/web-naive",
     },
     {
+      "name": "@vben/web-shop-admin",
+      "path": "apps/web-shop-admin",
+    },
+    {
       "name": "@vben/docs",
       "path": "docs",
     },
